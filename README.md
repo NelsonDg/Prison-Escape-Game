@@ -115,4 +115,4 @@ escape-game/
 | Rainier | GameEngine, UI, Integration Tests, Build |
 | Derek | Board, Cell, Trap |
 | Kenneth | Player, Cop, Enemy |
-| Nelson | ScoreManager, Clock, Item, BonusItem, Shovel |
+| Nelson | ScoreManager, UI, Clock, Item, BonusItem, Shovel |
