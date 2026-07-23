@@ -1,0 +1,11 @@
+For now for milestone 1 (march 5th), we planned to focus on the starting core logic of the game by dividing 
+the work based on the UML Diagram:
+
+1. Kenneth: mostly starting the entity part and enemy part of the UML Diagram
+2. Nelson: mostly starting the scoring + time + items/rewards and currently finishing up the bonus rewards.
+3. Derek: mostly starting the actual world/grid system of the game
+4. Rainier: starting the "game engine" of the game 
+
+
+We plan to work on the rest once we have the starting code for everything so that we can finally connect everything all at once.
+Furthermore, we plan on having a meeting to discuss what more work must be done to complete the project.

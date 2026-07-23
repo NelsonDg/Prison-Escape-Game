@@ -1,0 +1,16 @@
+# Maven build output
+target/
+
+# VS Code
+.vscode/
+
+# Mac junk files
+.DS_Store
+
+# Java
+*.class
+*.jar
+
+# Private peer code review docs (not for public repo)
+Documents/CodeReview-DerekKang-NelsonDang.pdf
+Documents/CodeReview-RainierOrdinario-KennethPamintuan.pdf
